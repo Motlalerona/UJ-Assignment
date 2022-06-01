@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"csc2a.uwga.thread","l":"EstimateTask"},{"p":"csc2a.uwga.thread","l":"EstimateTaskExecutor"}];updateSearchResults();
